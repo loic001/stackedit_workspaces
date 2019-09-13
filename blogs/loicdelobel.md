@@ -142,8 +142,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGVzdDpcbiAgLSB5b3V1dVxuICAtID
-hcbmV4dGVuc2lvbnM6XG4gIHByZXNldDogJydcbiIsImhpc3Rv
-cnkiOlsyODkwNjAzNzQsMTU5Mzg4MzAxNSw0Mjc5MzkyNzgsLT
-MzMjQ1NTM2M119
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
+AnJ1xuIiwiaGlzdG9yeSI6WzEyNDIwMDYwOTcsMTU5Mzg4MzAx
+NSw0Mjc5MzkyNzgsLTMzMjQ1NTM2M119
 -->
