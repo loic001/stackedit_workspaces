@@ -116,6 +116,15 @@ $$
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 
+$$
+\begin{array}{c}
+\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &
+= \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
+\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
+\nabla \cdot \vec{\mathbf{B}} & = 0
+\end{array}
+$$
+
 ## UML diagrams
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagrams:
@@ -145,7 +154,7 @@ C --> D
 eyJwcm9wZXJ0aWVzIjoic3RhdDogeWVzc1xucGVwOlxuIC0gaG
 V5eVxuIC0gaG9cbiAtIGh1XG5leHRlbnNpb25zOlxuICBwcmVz
 ZXQ6ICcnXG5jYXRlZ29yaWVzOiAnbWFjaGluZSBsZWFybmluZy
-xhY3RpdmUgaW5mZXJlbmNlJ1xuIiwiaGlzdG9yeSI6WzQ5ODU2
-NjQwNiwxMjQyMDA2MDk3LDE1OTM4ODMwMTUsNDI3OTM5Mjc4LC
-0zMzI0NTUzNjNdfQ==
+xhY3RpdmUgaW5mZXJlbmNlJ1xuIiwiaGlzdG9yeSI6Wy0xNTgz
+NDk2MDQ2LDQ5ODU2NjQwNiwxMjQyMDA2MDk3LDE1OTM4ODMwMT
+UsNDI3OTM5Mjc4LC0zMzI0NTUzNjNdfQ==
 -->
