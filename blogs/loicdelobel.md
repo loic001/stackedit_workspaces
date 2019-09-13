@@ -118,7 +118,7 @@ $$
 
 ## UML diagrams
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagrams:
 
 ```mermaid
 sequenceDiagram
@@ -144,6 +144,6 @@ C --> D
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGVzdDpcbiAgLSB5b3V1dVxuICAtID
 hcbmV4dGVuc2lvbnM6XG4gIHByZXNldDogJydcbiIsImhpc3Rv
-cnkiOlsxNDEwOTk4NTgyLDQyNzkzOTI3OCwtMzMyNDU1MzYzXX
+cnkiOlsxNTkzODgzMDE1LDQyNzkzOTI3OCwtMzMyNDU1MzYzXX
 0=
 -->
