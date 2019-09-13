@@ -150,11 +150,16 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+
+```mermaid
+sequenceDiagram Alice->>Bob: Hello Bob, how are you? alt is sick Bob->>Alice: Not so good :( else is well Bob->>Alice: Feeling fresh like a daisy end opt Extra response Bob->>Alice: Thanks for asking end
+```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdDogeWVzc1xucGVwOlxuIC0gaG
 V5eVxuIC0gaG9cbiAtIGh1XG5leHRlbnNpb25zOlxuICBwcmVz
 ZXQ6ICcnXG5jYXRlZ29yaWVzOiAnbWFjaGluZSBsZWFybmluZy
-xhY3RpdmUgaW5mZXJlbmNlJ1xuIiwiaGlzdG9yeSI6Wy0xNTgz
-NDk2MDQ2LDQ5ODU2NjQwNiwxMjQyMDA2MDk3LDE1OTM4ODMwMT
-UsNDI3OTM5Mjc4LC0zMzI0NTUzNjNdfQ==
+xhY3RpdmUgaW5mZXJlbmNlJ1xuIiwiaGlzdG9yeSI6WzE1MDI0
+MjEwNTksNDk4NTY2NDA2LDEyNDIwMDYwOTcsMTU5Mzg4MzAxNS
+w0Mjc5MzkyNzgsLTMzMjQ1NTM2M119
 -->
