@@ -1,4 +1,4 @@
-# Welcome to StackEdit!s
+# Welcome to StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -144,6 +144,6 @@ C --> D
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGVzdDpcbiAgLSB5b3V1dVxuICAtID
 hcbmV4dGVuc2lvbnM6XG4gIHByZXNldDogJydcbiIsImhpc3Rv
-cnkiOlsxNTkzODgzMDE1LDQyNzkzOTI3OCwtMzMyNDU1MzYzXX
-0=
+cnkiOlsyODkwNjAzNzQsMTU5Mzg4MzAxNSw0Mjc5MzkyNzgsLT
+MzMjQ1NTM2M119
 -->
